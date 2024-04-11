@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\Github\\StockMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11B0A259-9D8F-4CC6-9CB8-97CFDEE90842}|StockMarket.csproj|c:\\users\\dell\\documents\\github\\stockmarket\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B0A259-9D8F-4CC6-9CB8-97CFDEE90842}|StockMarket.csproj|solutionrelative:controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B0A259-9D8F-4CC6-9CB8-97CFDEE90842}|StockMarket.csproj|c:\\users\\dell\\documents\\github\\stockmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B0A259-9D8F-4CC6-9CB8-97CFDEE90842}|StockMarket.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B0A259-9D8F-4CC6-9CB8-97CFDEE90842}|StockMarket.csproj|c:\\users\\dell\\documents\\github\\stockmarket\\models\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B0A259-9D8F-4CC6-9CB8-97CFDEE90842}|StockMarket.csproj|solutionrelative:models\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B0A259-9D8F-4CC6-9CB8-97CFDEE90842}|StockMarket.csproj|c:\\users\\dell\\documents\\github\\stockmarket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11B0A259-9D8F-4CC6-9CB8-97CFDEE90842}|StockMarket.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B0A259-9D8F-4CC6-9CB8-97CFDEE90842}|StockMarket.csproj|c:\\users\\dell\\documents\\github\\stockmarket\\models\\stockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B0A259-9D8F-4CC6-9CB8-97CFDEE90842}|StockMarket.csproj|solutionrelative:models\\stockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B0A259-9D8F-4CC6-9CB8-97CFDEE90842}|StockMarket.csproj|c:\\users\\dell\\documents\\github\\stockmarket\\migrations\\20240403110853_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B0A259-9D8F-4CC6-9CB8-97CFDEE90842}|StockMarket.csproj|solutionrelative:migrations\\20240403110853_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Github\\StockMarket\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StocksController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Github\\StockMarket\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "Controllers\\StocksController.cs",
+              "ViewState": "AQIAADQAAADAl5mZmZkpwD0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:20:38.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Github\\StockMarket\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Github\\StockMarket\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:59:19.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Github\\StockMarket\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Github\\StockMarket\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T07:58:36.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Github\\StockMarket\\Models\\appContext.cs",
+              "RelativeDocumentMoniker": "Models\\appContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Github\\StockMarket\\Models\\appContext.cs",
+              "RelativeToolTip": "Models\\appContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:58:03.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240403110853_init.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Github\\StockMarket\\Migrations\\20240403110853_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240403110853_init.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Github\\StockMarket\\Migrations\\20240403110853_init.cs",
+              "RelativeToolTip": "Migrations\\20240403110853_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:08:54.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stockModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Github\\StockMarket\\Models\\stockModel.cs",
+              "RelativeDocumentMoniker": "Models\\stockModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Github\\StockMarket\\Models\\stockModel.cs",
+              "RelativeToolTip": "Models\\stockModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:57:21.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
